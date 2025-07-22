@@ -1,2 +1,3 @@
 Hi all
-welcome here 
+welcome to git
+add new line 
